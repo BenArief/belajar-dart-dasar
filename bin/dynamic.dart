@@ -7,4 +7,5 @@ void main(){
 
   variable = 'string';
   print("Ubah jadi string: $variable");
+
 }
